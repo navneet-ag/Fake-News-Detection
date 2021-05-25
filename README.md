@@ -1,2 +1,3 @@
 # covid-fake-news-detection
-NLP midsem Task - https://competitions.codalab.org/competitions/26655
+ReGexers submission at Constraint@AAAI2021 - COVID19 Fake News Detection in English
+Task Link - https://competitions.codalab.org/competitions/26655
